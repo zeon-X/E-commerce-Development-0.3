@@ -1,0 +1,12 @@
+.login_btn {
+    background-color: #ee262e;
+    color: white;
+}
+
+
+.or_container div {
+    border: 0.5px solid;
+    border-image: linear-gradient(#ee262e, #ffffff) 1;
+    height: 0px;
+    width: 40%;
+}

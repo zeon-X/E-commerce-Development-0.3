@@ -1,0 +1,25 @@
+.banner_container{
+  width: 100%;
+  height: 90vh;
+}
+
+.banner {
+  background: url('https://i.ibb.co/5xK4Xbw/IMG-9260.jpg');
+  background-position: initial;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  
+}
+
+
+@media screen and (max-width:686px) {
+  /* .App {
+    background-size: 300% 770px;
+  } */
+
+  .banner_container{
+    width: 100%;
+    height: 60vh;
+  }
+}

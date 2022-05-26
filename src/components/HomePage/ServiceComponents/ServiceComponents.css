@@ -1,0 +1,49 @@
+.service_component {
+    border: 1px solid rgba(128, 128, 128, 0.144);
+    border-radius: 9px;
+    
+
+    transition: all 0.3s ease;
+}
+.service_component:hover{
+    transform: scale(1.05);
+}
+
+.booking_btn {
+    border: 1px solid #EE262E;
+    border-radius: 9px;
+    padding: 10px;
+
+    /* color: #EE262E;
+    background-color: white; */
+
+    background-color: #EE262E;
+    color: white;
+
+    transition: all 0.3s ease;
+}
+
+.booking_btn:hover {
+    color: #EE262E;
+    background-color: white;
+}
+
+.service_com_img_container{
+    position: relative;
+}
+.service_com_img_container img{
+    height: 250px;
+    width: 100%;
+}
+.offer{
+    position: absolute;
+    right: 10px;
+    top: -10px;
+
+    background-color: #EE262E;
+    border: 1px #EE262E solid;
+    padding: 0px 12px;
+    border-radius: 9px;
+    color: white;
+    font-size: 14px;
+}

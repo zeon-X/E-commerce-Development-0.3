@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "hot": "Regular",
+        "image": "https://i.ibb.co/LSRn53r/A-one-wed-day-films.webp",
+        "pkgName": "Premium Package 1",
+        "pkgPrice": 16999,
+        "pkgDetails": "Escape the ordinary of every day and discover the magic of destination weddings.A destination wedding is so much more than just one day"
+    },
+    {
+        "id": 2,
+        "hot": "Exclusive",
+        "image": "https://i.ibb.co/Zg5mPFP/pexels-ankur-kumar-3872626.jpg",
+        "pkgName": "Premium Package 2",
+        "pkgPrice": 49999,
+        "pkgDetails": "Escape the ordinary of every day and discover the magic of destination weddings.A destination wedding is so much more than just one day"
+    },
+    {
+        "id": 3,
+        "hot": "New",
+        "image": "https://i.ibb.co/2vNN1Pf/fff.jpg",
+        "pkgName": "Premium Package 3",
+        "pkgPrice": 28999,
+        "pkgDetails": "Escape the ordinary of every day and discover the magic of destination weddings.A destination wedding is so much more than just one day"
+    },
+    {
+        "id": 4,
+        "hot": "",
+        "image": "https://i.ibb.co/8Dw4WLc/bbb.jpg",
+        "pkgName": "Regular Package 1",
+        "pkgPrice": 16999,
+        "pkgDetails": "Escape the ordinary of every day and discover the magic of destination weddings.A destination wedding is so much more than just one day"
+    },
+    {
+        "id": 5,
+        "hot": "Hot",
+        "image": "https://i.ibb.co/TBTkZSJ/vt2.jpg",
+        "pkgName": "Regular Package 2",
+        "pkgPrice": 19999,
+        "pkgDetails": "Escape the ordinary of every day and discover the magic of destination weddings.A destination wedding is so much more than just one day"
+    },
+    {
+        "id": 6,
+        "hot": "",
+        "image": "https://i.ibb.co/rd1MDP2/SABI7465.jpg",
+        "pkgName": "Regular Package 3",
+        "pkgPrice": 9999,
+        "pkgDetails": "Escape the ordinary of every day and discover the magic of destination weddings.A destination wedding is so much more than just one day"
+    }
+]

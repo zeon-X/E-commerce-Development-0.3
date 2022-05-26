@@ -1,0 +1,26 @@
+.blog_content{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:20px
+}
+
+.blog_card{
+    padding: 30px 35px;
+    background-color: #f3f3f3;
+    border-radius: 9px;
+
+    transition: all 0.3s ease;
+}
+
+.blog_card:hover{
+    transform: translateY(-10px);
+    cursor: pointer;
+    user-select: none;
+}
+
+@media screen and (max-width:686px) {
+    .blog_content{
+        grid-template-columns: repeat(1,1fr);
+        
+    }
+}

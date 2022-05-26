@@ -1,0 +1,58 @@
+._container {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center;
+  align-items: center; */
+
+  margin: 60px 0px;
+}
+
+._content {
+  width: 85%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+button {
+  border-radius: 4px;
+  padding: 10px 0px;
+}
+
+.button_primary {
+  background-color: #ee262e;
+  color: white;
+}
+
+.button_secondary {
+  border: #ee262e 1px solid;
+  background-color: white;
+  color: #ee262e;
+}
+
+
+.form_container {
+  border: 1px solid rgba(128, 128, 128, 0.135);
+  border-radius: 9px;
+
+  padding: 40px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #ee262d1a;
+  color: black;
+  border: solid 1px #ee262d64;
+}
+
+/* .App{
+  overflow: hidden;
+} */

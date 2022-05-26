@@ -1,0 +1,52 @@
+/* .about_content{
+
+} */
+.social_btn_about img {
+    height: 30px;
+    margin: 0px 8px;
+}
+
+.about_left_section {
+    display: flex;
+    justify-content: center;
+
+    border-radius: 9px;
+    width: 40%;
+
+    height: 700px;
+}
+
+.about_left_section_card {
+    padding: 40px;
+    position: absolute;
+    top: -100px;
+}
+
+
+.about_right_section {
+    width: 60%;
+    padding: 0px 0px 0px 100px;
+}
+
+.about_me_image{
+    border-radius: 50%;
+    width: 80%;
+    height: 80%;
+}
+
+@media screen and (max-width:686px) {
+    .about_content{
+        flex-direction: column;
+    }
+    .about_left_section {
+        width: 100%;
+    }
+    .about_right_section {
+        width: 100%;
+        padding: 30px 0px;
+    }
+    .about_me_image{
+        width: 100%;
+        height: 100%;
+    }
+}

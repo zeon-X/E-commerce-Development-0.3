@@ -1,0 +1,47 @@
+.checkout_content {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+}
+
+
+
+.billing_details_form form {
+    border: none;
+    padding: 0px 40px;
+}
+
+.billing_details_form form input {
+    background-color: white;
+    color: black;
+    border-color: grey;
+}
+
+
+.select_payment_method {
+    border-radius: 9px;
+    padding: 0px 60px;
+    background-color: rgba(128, 128, 128, 0.13);
+}
+
+.select_payment_method form {
+    width: 100%;
+    border: none;
+}
+
+.billing_details_form form input{
+    color: grey;
+    border-color: rgba(128, 128, 128, 0.323);
+}
+
+
+@media screen and (max-width:686px) {
+    .checkout_content {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .billing_details_form form {
+        border: none;
+        padding: 0px 0px;
+    }
+}
