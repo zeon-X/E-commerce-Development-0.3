@@ -1,4 +1,4 @@
-## Weeding Art by ZEONX
+## Weeding Art E-com & Landing Page
 
 visit our website at [weeding-Art](https://weeding-art-bd-zeonx.firebaseapp.com/)
 gitHub repo of [weedingartGit](https://github.com/programming-hero-web-course-4/independent-service-provider-zeon-X)
